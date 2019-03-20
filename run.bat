@@ -1,0 +1,1 @@
+javaw -jar "C:\Path\to\jarfile\Bifrost-1.0-SNAPSHOT.jar"
